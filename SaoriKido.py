@@ -1,0 +1,5 @@
+x = input ('digite seu nome: ')
+y = input ('digite seu telefone: ')
+z = input ('digite seu email: ')
+c = input ('digite sua idade: ')
+print ('meu nome é' ,x, 'meu telefone é' ,y, 'meu email' ,z, 'e tenho' ,c, 'anos')
